@@ -1,9 +1,13 @@
 # Web-client
 
 Name: Venkata Satya Kavya Sree Bondapalli
+
 UIN: 725006670
+
 Course: CSCE 612 Networks and Distributed Processing 
+
 Semester: Spring 2018
+
 Instructor: Dmitri Loguinov
 
 HW-1 
