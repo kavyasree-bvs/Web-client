@@ -1,0 +1,26 @@
+Extracted 1000004 URLs @ 3496/s
+Looked up 139300 DNS names @ 487/s
+Downloaded 81316 robots @ 284/s
+Crawled 9062 pages @ 31/s (151.87 MB)
+Parsed 278029 links @ 972/s
+HTTP codes: 2xx = 5412, 3xx = 1379, 4xx = 2187, 5xx = 84, other = 0
+3- Avg page size in bytes (across all http codes) = 16758
+3- Bandwidth needed for bing to crawl 10B pages per day = 33472.21 Gbps
+4- Prob that a link in the I/P file contains a unique host = 0.14
+4- Prob that a unique host has a valid dns record = 0.94
+4- Percentage of contacted sites that had a 4xx robots file = 30.19
+5- No of crawled 2xx pages that contain a hyperlink to tamu.edu = 16, And 7 of them originated from outside of TAMU
+
+Extracted 1000004 URLs @ 3937/s
+Looked up 139300 DNS names @ 548/s
+Downloaded 81418 robots @ 320/s
+Crawled 9027 pages @ 35/s (143.86 MB)
+Parsed 265681 links @ 1045/s
+HTTP codes: 2xx = 5307, 3xx = 1378, 4xx = 2234, 5xx = 108, other = 0
+3- Avg page size in bytes (across all http codes) = 15937
+3- Bandwidth needed for bing to crawl 10B pages per day = 254660.86 Gbps
+4- Prob that a link in the I/P file contains a unique host = 0.14
+4- Prob that a unique host has a valid dns record = 0.94
+4- Percentage of contacted sites that had a 4xx robots file = 30.17
+5- No of crawled 2xx pages that contain a hyperlink to tamu.edu = 9, And 5 of them originated from outside of TAMU
+
